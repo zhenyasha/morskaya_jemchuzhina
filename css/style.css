@@ -35,7 +35,7 @@ body {
 	padding: 0;
 	background: rgba(218, 165, 32, 0.7) url("img/beach.png") no-repeat;	
 	background-size: cover;	
-	height: 350px;
+	min-height: 350px;
 	background-position: top;
 	padding-top: 80px;
 }
