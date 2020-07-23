@@ -33,10 +33,10 @@ body {
 .page-header {
 	margin: 0;
 	padding: 0;
-	background:	rgba(218, 165, 32, 0.7) url("img/beach-310419.png") no-repeat;	
+	background:	rgba(218, 165, 32, 0.7) url("img/beach.png") no-repeat;	
 	background-size: cover;	
 	height: 350px;
-	background-position: 0 60%;
+	background-position: top;
 	padding-top: 80px;
 }
 
